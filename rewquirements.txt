@@ -1,0 +1,7 @@
+pickle5
+pandas
+scikit-learn
+mlxtend
+streamlit
+numpy
+streamlit-shadcn-ui
